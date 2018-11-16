@@ -1,0 +1,11 @@
+Notes about my TF project
+
+
+
+https://www.tensorflow.org/install/pip#package-location
+
+
+
+Protoc install and compile
+(prodtensorflow) C:\Users\Jack\Documents\models\models-master\research>C:\Users\Jack\Documents\models\models-master\research\protoc-3.4.0-win32\bin\protoc object_detection/protos/*.proto --python_out=.
+place install extracted in research and run this
